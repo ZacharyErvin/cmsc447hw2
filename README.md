@@ -2,6 +2,7 @@
 I used flask and sqlalchemy to create this website and database
 
 To run it:
+make sure pip and flask are downloaded
 Download the folder labelled "myproject"
 run the file "main.py" this is inside of "myproject" and the website will be started (should be http://127.0.0.1:5000 )
 
